@@ -1,7 +1,7 @@
 # Hacking
-Hacking is a process of gaining unauthorised access to anyone system.
+Hacking is a process of gaining unauthorised access to anyone system or pc.
 
-#Types of hacker
-Whit hat Hacker
-Blac hat Hacker
-Greyhat hacker
+# Types of hacker
+White hat Hacker
+BlacF hat Hacker
+Greyhat Hacker
